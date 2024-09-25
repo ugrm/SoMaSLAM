@@ -1,1 +1,1 @@
-Please refer to https://somaslam.github.io/ for more details. Sorry for the inconvenience.
+For those who have access to the link https://github.com/ugrm/SoMaSLAM.git please refer to https://somaslam.github.io/ for updated details. The final submission for the paper can be seen in the arXiv link or the pdf link. Sorry for the inconvenience.
